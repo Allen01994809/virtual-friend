@@ -18,6 +18,7 @@
     "pree2e": "vite build --mode=test"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "1.0.5",
     "electron-updater": "^5.3.0",
     "recoil": "^0.7.7",
     "zod": "^3.21.4"
@@ -30,6 +31,7 @@
     "electron-builder": "^24.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "sass": "^1.61.0",
     "typescript": "^5.0.4",
     "vite": "^4.2.1",
     "vite-plugin-electron": "^0.11.1",
